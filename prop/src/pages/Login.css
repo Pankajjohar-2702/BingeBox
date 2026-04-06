@@ -1,0 +1,145 @@
+.login-body {
+  background-color: #000;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.login-box {
+  background: rgba(0, 0, 0, 0.85);
+  padding: 40px;
+  width: min(400px, 100%);
+  color: #fff;
+  border: 1px solid rgba(229, 9, 20, 0.25);
+  border-radius: 16px;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.55);
+}
+
+.login-box h1 {
+  color: #e50914;
+  text-align: center;
+  margin-bottom: 20px;
+  letter-spacing: 1px;
+}
+
+.login-toggle {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 18px;
+}
+
+.login-toggle button {
+  flex: 1;
+  padding: 12px 14px;
+  background: transparent;
+  border: 1px solid #444;
+  color: #fff;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: all 0.18s ease;
+}
+
+.login-toggle button.active,
+.login-toggle button:hover {
+  background: #e50914;
+  border-color: #e50914;
+}
+
+.login-subtitle {
+  color: #c7c7c7;
+  font-size: 0.95rem;
+  text-align: center;
+  margin-bottom: 20px;
+  line-height: 1.5;
+}
+
+.login-box input {
+  width: 100%;
+  padding: 14px 12px;
+  margin: 10px 0;
+  border: 1px solid #333;
+  border-radius: 10px;
+  background: #111;
+  color: #fff;
+  font-size: 0.95rem;
+}
+
+.login-box input:focus {
+  outline: 2px solid rgba(229, 9, 20, 0.65);
+}
+
+.login-box button {
+  width: 100%;
+  padding: 14px 12px;
+  background-color: #e50914;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+  font-weight: 700;
+  margin-top: 12px;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.login-box button:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.login-box button:not(:disabled):hover {
+  transform: translateY(-1px);
+}
+
+.login-greeting,
+.password-strength,
+.login-message {
+  margin-top: 12px;
+  text-align: center;
+  font-size: 0.92rem;
+}
+
+.login-greeting {
+  color: #e50914;
+}
+
+.password-strength.strong {
+  color: #6ef16e;
+}
+
+.password-strength.weak {
+  color: #f7cc32;
+}
+
+.login-message {
+  color: #f3f3f3;
+}
+
+.login-message.success {
+  color: #6ef16e;
+}
+
+.login-message.error {
+  color: #ff8f8f;
+}
+
+.help-text {
+  font-size: 0.92rem;
+  margin-top: 15px;
+  color: #aaa;
+  text-align: center;
+}
+
+.help-text span {
+  color: #fff;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.help-text span:hover {
+  color: #e50914;
+}

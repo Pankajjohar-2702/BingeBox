@@ -1,0 +1,110 @@
+{
+  "koreanDrama": [
+    {
+      "title": "Descendants of the Sun",
+      "thumbnail": "https://img.youtube.com/vi/wTGwjDqtfzQ/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/wTGwjDqtfzQ"
+    },
+    {
+      "title": "The Heirs",
+      "thumbnail": "https://img.youtube.com/vi/Y0WSF5ikpvU/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/Y0WSF5ikpvU"
+    },
+    {
+      "title": "Healer",
+      "thumbnail": "https://img.youtube.com/vi/EQWPnTNOCX4/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/EQWPnTNOCX4"
+    },
+    {
+      "title": "Doctor Stranger",
+      "thumbnail": "https://img.youtube.com/vi/1z0s4Jr3A4k/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/1z0s4Jr3A4k"
+    },
+    {
+      "title": "Boys Over Flowers",
+      "thumbnail": "https://img.youtube.com/vi/iuqwMI6dpJA/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/iuqwMI6dpJA"
+    }
+  ],
+  "chineseDrama": [
+    {
+      "title": "Love O2O",
+      "thumbnail": "https://img.youtube.com/vi/tiiN4rDwa8g/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/tiiN4rDwa8g"
+    },
+    {
+      "title": "The King's Avatar",
+      "thumbnail": "https://img.youtube.com/vi/q16DV-6DidU/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/q16DV-6DidU"
+    },
+    {
+      "title": "Go Go Squid!",
+      "thumbnail": "https://img.youtube.com/vi/jZZgDL5ID4Y/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/jZZgDL5ID4Y"
+    },
+    {
+      "title": "Reset",
+      "thumbnail": "https://img.youtube.com/vi/lFh7G8v4S2E/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/lFh7G8v4S2E"
+    },
+    {
+      "title": "Love Me If You Dare",
+      "thumbnail": "https://img.youtube.com/vi/6Z7k9k8g2wM/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/6Z7k9k8g2wM"
+    }
+  ],
+  "hollywoodDrama": [
+    {
+      "title": "Breaking Bad",
+      "thumbnail": "https://img.youtube.com/vi/HhesaQXLuRY/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/HhesaQXLuRY"
+    },
+    {
+      "title": "Stranger Things",
+      "thumbnail": "https://img.youtube.com/vi/b9EkMc79ZSU/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/b9EkMc79ZSU"
+    },
+    {
+      "title": "The Last of Us",
+      "thumbnail": "https://img.youtube.com/vi/uLtkt8BonwM/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/uLtkt8BonwM"
+    },
+    {
+      "title": "Game of Thrones",
+      "thumbnail": "https://img.youtube.com/vi/KPLWWIOCOOQ/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/KPLWWIOCOOQ"
+    },
+    {
+      "title": "The Walking Dead",
+      "thumbnail": "https://img.youtube.com/vi/sfAc2U20uyg/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/sfAc2U20uyg"
+    }
+  ],
+  "classicHits": [
+    {
+      "title": "Friends",
+      "thumbnail": "https://img.youtube.com/vi/bvEnlf9g4co/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/bvEnlf9g4co"
+    },
+    {
+      "title": "Sherlock",
+      "thumbnail": "https://img.youtube.com/vi/xK7S9mrFWL4/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/xK7S9mrFWL4"
+    },
+    {
+      "title": "Prison Break",
+      "thumbnail": "https://img.youtube.com/vi/AL9zLctDJaU/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/AL9zLctDJaU"
+    },
+    {
+      "title": "House M.D.",
+      "thumbnail": "https://img.youtube.com/vi/MczMB8nU1sY/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/MczMB8nU1sY"
+    },
+    {
+      "title": "The Office",
+      "thumbnail": "https://img.youtube.com/vi/Vmb1tqYqyII/mqdefault.jpg",
+      "video": "https://www.youtube.com/embed/Vmb1tqYqyII"
+    }
+  ]
+}

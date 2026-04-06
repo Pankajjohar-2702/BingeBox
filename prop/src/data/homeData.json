@@ -1,0 +1,175 @@
+{
+  "trendingSeries": [
+    {
+      "title": "Money Heist",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjkxZWJiNTUtYjQwYS00MTBlLTgwODQtM2FkNWMyMjMwOGZiXkEyXkFqcGc@._V1_.jpg",
+      "video": "https://www.youtube.com/embed/_InqQJRqGW4"
+    },
+    {
+      "title": "Stranger Things",
+      "thumbnail": "https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/8e95aca5-8f48-4678-b204-4b2af3f4c452/STARNGER+THINGS+5+Trailer+and+Poster+Teases+The+Final+Epic+Battle+and+%2522One+Last+Adventure%2522.jpg",
+      "video": "https://www.youtube.com/embed/b9EkMc79ZSU"
+    },
+    {
+      "title": "Dark",
+      "thumbnail": "https://img.youtube.com/vi/rrwycJ08PSA/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/rrwycJ08PSA?rel=0"
+    },
+    {
+      "title": "Wednesday",
+      "thumbnail": "https://img.youtube.com/vi/Di310WS8zLk/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/Di310WS8zLk?rel=0"
+    },
+    {
+      "title": "Breaking Bad",
+      "thumbnail": "https://img.youtube.com/vi/HhesaQXLuRY/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/HhesaQXLuRY?rel=0"
+    },
+    {
+      "title": "The Witcher",
+      "thumbnail": "https://img.youtube.com/vi/ndl1W4ltcmg/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/ndl1W4ltcmg?rel=0"
+    },
+    {
+      "title": "Narcos",
+      "thumbnail": "https://img.youtube.com/vi/xl8zdCY-abw/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/xl8zdCY-abw?rel=0"
+    },
+    {
+      "title": "Lucifer",
+      "thumbnail": "https://img.youtube.com/vi/X4bF_quwNtw/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/X4bF_quwNtw?rel=0"
+    },
+    {
+      "title": "Peaky Blinders",
+      "thumbnail": "https://img.youtube.com/vi/lcvUGs3xaDM/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/lcvUGs3xaDM?rel=0"
+    }
+  ],
+  "newReleases": [
+    {
+      "title": "Paradise",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslQqOPULx3G5FTHlthChEtjnSUXqsAC0PgA&s",
+      "video": "https://www.youtube.com/embed/jNQXAC9IVRw"
+    },
+    {
+      "title": "The Conjuring",
+      "thumbnail": "https://img.youtube.com/vi/ejMMn0t58Lc/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/ejMMn0t58Lc?rel=0"
+    },
+    {
+      "title": "Badlands",
+      "thumbnail": "https://img.youtube.com/vi/43R9l7EkJwE/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/43R9l7EkJwE?rel=0"
+    },
+    {
+      "title": "Dracula",
+      "thumbnail": "https://img.youtube.com/vi/c-b2HXpbg7U/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/c-b2HXpbg7U?rel=0"
+    },
+    {
+      "title": "Tracker",
+      "thumbnail": "https://img.youtube.com/vi/kQg16PnPpF8/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/kQg16PnPpF8?rel=0"
+    },
+    {
+      "title": "Deadpool & Wolverine",
+      "thumbnail": "https://img.youtube.com/vi/73_1biulkYk/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/73_1biulkYk?rel=0"
+    },
+    {
+      "title": "Inside Out 2",
+      "thumbnail": "https://img.youtube.com/vi/LEjhY15eCx0/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/LEjhY15eCx0?rel=0"
+    },
+    {
+      "title": "Dune Part 2",
+      "thumbnail": "https://img.youtube.com/vi/Way9Dexny3w/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/Way9Dexny3w?rel=0"
+    }
+  ],
+  "hollywoodMovies": [
+    {
+      "title": "Avengers: Endgame",
+      "thumbnail": "https://img.youtube.com/vi/TcMBFSGVi1c/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/TcMBFSGVi1c?rel=0"
+    },
+    {
+      "title": "Avengers: Infinity War",
+      "thumbnail": "https://img.youtube.com/vi/6ZfuNTqbHE8/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/6ZfuNTqbHE8?rel=0"
+    },
+    {
+      "title": "Spider-Man: No Way Home",
+      "thumbnail": "https://img.youtube.com/vi/JfVOs4VSpmA/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/JfVOs4VSpmA?rel=0"
+    },
+    {
+      "title": "John Wick 4",
+      "thumbnail": "https://img.youtube.com/vi/qEVUtrk8_B4/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/qEVUtrk8_B4?rel=0"
+    },
+    {
+      "title": "The Batman (2022)",
+      "thumbnail": "https://img.youtube.com/vi/mqqft2x_Aa4/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/mqqft2x_Aa4?rel=0"
+    },
+    {
+      "title": "Fast & Furious 9",
+      "thumbnail": "https://img.youtube.com/vi/uisBaTkQAEs/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/uisBaTkQAEs?rel=0"
+    },
+    {
+      "title": "Jurassic World",
+      "thumbnail": "https://img.youtube.com/vi/RFinNxS5KN4/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/RFinNxS5KN4?rel=0"
+    },
+    {
+      "title": "Mission Impossible – Fallout",
+      "thumbnail": "https://img.youtube.com/vi/wb49-oV0F78/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/wb49-oV0F78?rel=0"
+    }
+  ],
+  "upcoming": [
+    {
+      "title": "Sikandar (2025)",
+      "thumbnail": "https://img.youtube.com/vi/in6mSwNbXS0/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/in6mSwNbXS0?rel=0"
+    },
+    {
+      "title": "Raid 2 (2025)",
+      "thumbnail": "https://img.youtube.com/vi/kQF1gl7nLaU/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/kQF1gl7nLaU?rel=0"
+    },
+    {
+      "title": "Chhaava (2025)",
+      "thumbnail": "https://img.youtube.com/vi/hs3w32RG8L8/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/hs3w32RG8L8?rel=0"
+    },
+    {
+      "title": "Dhurandhar (2025)",
+      "thumbnail": "https://img.youtube.com/vi/BKOVzHcjEIo/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/BKOVzHcjEIo?rel=0"
+    },
+    {
+      "title": "Sitaare Zameen Par (2025)",
+      "thumbnail": "https://img.youtube.com/vi/YH6k5weqwy8/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/YH6k5weqwy8?rel=0"
+    },
+    {
+      "title": "Helldivers",
+      "thumbnail": "https://img.youtube.com/vi/UC5EpJR0GBQ/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/UC5EpJR0GBQ?rel=0"
+    },
+    {
+      "title": "Avatar Fire",
+      "thumbnail": "https://img.youtube.com/vi/ByAn8DF8Ykk/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/ByAn8DF8Ykk?rel=0"
+    },
+    {
+      "title": "Inception 2",
+      "thumbnail": "https://img.youtube.com/vi/1c8GjLd2yuM/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/1c8GjLd2yuM?rel=0"
+    }
+  ]
+}

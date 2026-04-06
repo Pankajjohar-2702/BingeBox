@@ -1,0 +1,137 @@
+{
+  "trendingNow": [
+    {
+      "title": "Attack on Titan",
+      "thumbnail": "https://img.youtube.com/vi/MGRm4IzK1SQ/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/MGRm4IzK1SQ?rel=0"
+    },
+    {
+      "title": "Demon Slayer",
+      "thumbnail": "https://img.youtube.com/vi/VQGCKyvzIM4/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/VQGCKyvzIM4?rel=0"
+    },
+    {
+      "title": "Jujutsu Kaisen",
+      "thumbnail": "https://img.youtube.com/vi/pkKu9hLT-t8/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/pkKu9hLT-t8?rel=0"
+    },
+    {
+      "title": "My Hero Academia",
+      "thumbnail": "https://img.youtube.com/vi/EPVkcwyLQQ8/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/EPVkcwyLQQ8?rel=0"
+    },
+    {
+      "title": "Tokyo Revengers",
+      "thumbnail": "https://img.youtube.com/vi/P-02MjZ27yQ/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/P-02MjZ27yQ?rel=0"
+    }
+  ],
+  "actionShonen": [
+    {
+      "title": "Naruto",
+      "thumbnail": "https://img.youtube.com/vi/-G9BqkgZXRA/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/-G9BqkgZXRA?rel=0"
+    },
+    {
+      "title": "One Piece",
+      "thumbnail": "https://img.youtube.com/vi/S8_YwFLCh4U/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/S8_YwFLCh4U?rel=0"
+    },
+    {
+      "title": "Dragon Ball Z",
+      "thumbnail": "https://img.youtube.com/vi/s36szNpqix4/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/s36szNpqix4?rel=0"
+    },
+    {
+      "title": "Bleach",
+      "thumbnail": "https://img.youtube.com/vi/78WIYzX_m98/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/78WIYzX_m98?rel=0"
+    },
+    {
+      "title": "Black Clover",
+      "thumbnail": "https://img.youtube.com/vi/BwdMT-OiARI/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/BwdMT-OiARI?rel=0"
+    }
+  ],
+  "darkPsychological": [
+    {
+      "title": "Death Note",
+      "thumbnail": "https://img.youtube.com/vi/NlJZ-YgAt-c/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/NlJZ-YgAt-c?rel=0"
+    },
+    {
+      "title": "Tokyo Ghoul",
+      "thumbnail": "https://img.youtube.com/vi/vGuQeQsoRgU/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/vGuQeQsoRgU?rel=0"
+    },
+    {
+      "title": "Code Geass",
+      "thumbnail": "https://img.youtube.com/vi/G8CFuZ9MseQ/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/G8CFuZ9MseQ?rel=0"
+    },
+    {
+      "title": "Vinland Saga",
+      "thumbnail": "https://img.youtube.com/vi/f8JrZ7Q_p-8/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/f8JrZ7Q_p-8?rel=0"
+    },
+    {
+      "title": "Chainsaw Man",
+      "thumbnail": "https://img.youtube.com/vi/v4yLeNt-kCU/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/v4yLeNt-kCU?rel=0"
+    }
+  ],
+  "sciFiFantasy": [
+    {
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "thumbnail": "https://img.youtube.com/vi/--IcmZkvL0Q/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/--IcmZkvL0Q?rel=0"
+    },
+    {
+      "title": "Sword Art Online",
+      "thumbnail": "https://img.youtube.com/vi/6ohYYtxfDCg/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/6ohYYtxfDCg?rel=0"
+    },
+    {
+      "title": "Cyberpunk: Edgerunners",
+      "thumbnail": "https://img.youtube.com/vi/JtqIas3bYhg/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/JtqIas3bYhg?rel=0"
+    },
+    {
+      "title": "Fairy Tail",
+      "thumbnail": "https://img.youtube.com/vi/LK0QWedBRXY/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/LK0QWedBRXY?rel=0"
+    },
+    {
+      "title": "Blue Exorcist",
+      "thumbnail": "https://img.youtube.com/vi/TrFVtba-BAo/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/TrFVtba-BAo?rel=0"
+    }
+  ],
+  "popularClassics": [
+    {
+      "title": "One Punch Man",
+      "thumbnail": "https://img.youtube.com/vi/Poo5lqoWSGw/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/Poo5lqoWSGw?rel=0"
+    },
+    {
+      "title": "Spy x Family",
+      "thumbnail": "https://img.youtube.com/vi/ofXigq9aIpo/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/ofXigq9aIpo?rel=0"
+    },
+    {
+      "title": "Haikyuu!!",
+      "thumbnail": "https://img.youtube.com/vi/JOGp2c7-cKc/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/JOGp2c7-cKc?rel=0"
+    },
+    {
+      "title": "Cowboy Bebop",
+      "thumbnail": "https://img.youtube.com/vi/ULCIHP5dc44/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/ULCIHP5dc44?rel=0"
+    },
+    {
+      "title": "Shinsei Galverse",
+      "thumbnail": "https://img.youtube.com/vi/Ix6oxwuc-rw/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/Ix6oxwuc-rw?rel=0"
+    }
+  ]
+}
